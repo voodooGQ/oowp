@@ -1,0 +1,12 @@
+.git
+.idea
+core
+!core/.gitkeep
+wp-config.php
+.htaccess
+content/plugins
+!content/plugins/.gitkeep
+content/uploads
+!content/uploads/.gitkeep
+content/mu-plugins
+!content/my-plugins/.gitkeep
